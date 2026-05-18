@@ -14,3 +14,11 @@ The system should allow users to update their personal information to keep their
 - Confirmation message should be displayed
 **Status: Implemented**
 
+## T-05: Notification System
+FR-Farm Owner/Government Authority/Energy Grid Operator/Investor/Admin/Maintenance Team-The user should be able to receive notifications
+- The system should provide real-time notifications to keep users updated about important events.
+- Notifications should be delivered in real-time
+- Alerts should be categorized (warning, info, critical)
+- Notifications should be visible within 2 seconds of trigger
+**Status: Implemented**
+
