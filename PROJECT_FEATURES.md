@@ -5,5 +5,3 @@ This feature implements secure login functionality for multiple user roles inclu
 - Successful login redirects users to the dashboard
 - Invalid credentials display an error message
 - Response time is less than 2 seconds
-**Status: Implemented**
-
