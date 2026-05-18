@@ -14,3 +14,15 @@ The system should allow users to update their personal information to keep their
 - Confirmation message should be displayed
 **Status: Implemented**
 
+## T-03: Reset Forgotten Passwords
+FR-Farm Owner/Government Authority/Energy Grid Operator/Investor/Admin/Maintenance Team-The user should be able to reset forgotten passwords
+- The system validates the entered email
+- Email must exist in the system
+- Reset link is sent within 30 seconds
+- Reset link is secure and time-limited
+- User can set a new password
+- Password must be at least 8 characters
+- Password update is successful
+- User is redirected to the login page after reset
+**Status: Implemented**
+
