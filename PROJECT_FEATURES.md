@@ -20,5 +20,15 @@ FR-Farm Owner/Government Authority/Energy Grid Operator/Investor/Admin/Maintenan
 - Notifications should be delivered in real-time
 - Alerts should be categorized (warning, info, critical)
 - Notifications should be visible within 2 seconds of trigger
+## T-03: Reset Forgotten Passwords
+FR-Farm Owner/Government Authority/Energy Grid Operator/Investor/Admin/Maintenance Team-The user should be able to reset forgotten passwords
+- The system validates the entered email
+- Email must exist in the system
+- Reset link is sent within 30 seconds
+- Reset link is secure and time-limited
+- User can set a new password
+- Password must be at least 8 characters
+- Password update is successful
+- User is redirected to the login page after reset
 **Status: Implemented**
 
